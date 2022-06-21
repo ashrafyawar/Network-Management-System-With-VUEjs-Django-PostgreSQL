@@ -1,0 +1,11 @@
+DeviceId,DeviceName,DeviceModel,DeviceIP,DeviceStatus,DeviceRecentLog
+,Android,Mobile,127.0.0.1,TRUE,12-12-98
+,Windows 11,PS,127.0.0.2,FALSE,12-12-98
+,Kali,PS,127.0.0.3,TRUE,12-12-98
+,Iphone,Mobile,127.0.0.4,FALSE,12-12-98
+,Nokia,Mobile,127.0.0.5,TRUE,12-12-98
+,Android,Mobile,127.0.0.1,TRUE,12-12-98
+,Windows 11,PS,127.0.0.2,FALSE,12-12-98
+,Kali,PS,127.0.0.3,TRUE,12-12-98
+,Iphone,Mobile,127.0.0.4,FALSE,12-12-98
+,Nokia,Mobile,127.0.0.5,TRUE,12-12-98

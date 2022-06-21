@@ -1,0 +1,50 @@
+DeviceId,DeviceIP,DeviceType,DeviceActivityDesc,DevicePriority
+,37.228.129.133,Desktop,tried to access classified files over the private network !!!,3
+,37.252.255.135,Section4-Device,pinged the main ip address of the network !!,2
+,45.12.134.107,Mobile,tried password reset for more than 15 times !,1
+,45.31.92.213,Robotic Arm,tried to access classified files over the private network !!!,1
+,45.49.12.211,CCTV controller,pinged the main ip address of the network !!,1
+,45.49.134.248,Desktop,tried password reset for more than 15 times !,2
+,45.151.167.11,Section4-Device,tried to access classified files over the private network !!!,2
+,45.154.98.173,Mobile,pinged the main ip address of the network !!,3
+,45.154.98.176,Robotic Arm,tried password reset for more than 15 times !,3
+,46.38.247.22,CCTV controller,tried to access classified files over the private network !!!,3
+,47.24.3.115,Desktop,pinged the main ip address of the network !!,3
+,47.24.225.199,Section4-Device,tried password reset for more than 15 times !,2
+,47.41.192.3,Mobile,tried to access classified files over the private network !!!,1
+,47.153.81.44,Robotic Arm,pinged the main ip address of the network !!,1
+,47.156.221.53,CCTV controller,tried password reset for more than 15 times !,1
+,47.184.106.30,Desktop,tried to access classified files over the private network !!!,2
+,50.254.124.49,Section4-Device,pinged the main ip address of the network !!,2
+,51.195.91.124,Mobile,tried password reset for more than 15 times !,3
+,51.195.166.195,Robotic Arm,tried to access classified files over the private network !!!,3
+,51.195.166.196,CCTV controller,pinged the main ip address of the network !!,3
+,51.222.107.173,Desktop,tried password reset for more than 15 times !,3
+,54.36.108.162,Section4-Device,tried to access classified files over the private network !!!,2
+,62.102.148.68,Mobile,pinged the main ip address of the network !!,1
+,64.189.18.53,Robotic Arm,tried password reset for more than 15 times !,1
+,65.28.188.64,CCTV controller,tried to access classified files over the private network !!!,1
+,66.76.186.26,Desktop,pinged the main ip address of the network !!,2
+,68.105.177.224,Section4-Device,tried password reset for more than 15 times !,2
+,68.133.14.134,Mobile,tried to access classified files over the private network !!!,3
+,68.201.105.252,Robotic Arm,pinged the main ip address of the network !!,3
+,68.203.8.55,CCTV controller,tried password reset for more than 15 times !,3
+,69.129.199.195,Desktop,tried to access classified files over the private network !!!,3
+,69.254.100.188,Section4-Device,pinged the main ip address of the network !!,2
+,70.113.116.178,Mobile,tried password reset for more than 15 times !,1
+,70.115.128.19,Robotic Arm,tried to access classified files over the private network !!!,1
+,70.119.239.151,CCTV controller,pinged the main ip address of the network !!,1
+,70.186.84.203,Desktop,tried password reset for more than 15 times !,3
+,71.61.128.182,Section4-Device,tried to access classified files over the private network !!!,2
+,71.91.164.193,Mobile,pinged the main ip address of the network !!,1
+,71.91.208.246,Robotic Arm,tried password reset for more than 15 times !,3
+,71.221.105.208,CCTV controller,tried to access classified files over the private network !!!,2
+,72.175.179.135,Desktop,pinged the main ip address of the network !!,1
+,72.177.54.62,Section4-Device,tried password reset for more than 15 times !,1
+,73.55.213.33,Mobile,tried to access classified files over the private network !!!,1
+,73.155.53.244,Robotic Arm,pinged the main ip address of the network !!,2
+,73.166.104.226,CCTV controller,tried password reset for more than 15 times !,2
+,73.177.92.103,Desktop,tried to access classified files over the private network !!!,3
+,73.189.223.230,Section4-Device,pinged the main ip address of the network !!,3
+,73.196.254.185,Mobile,tried password reset for more than 15 times !,3
+,73.244.177.36,Robotic Arm,tried to access classified files over the private network !!!,2
