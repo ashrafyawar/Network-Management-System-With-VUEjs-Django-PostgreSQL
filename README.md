@@ -1,0 +1,4 @@
+# Network-Management-System-With-VUEjs-Django-PostgreSQL
+
+BELOW YOU CAN FIND OUT HOW TO RUN THE FRONT-END AND BACK-END PARTS OF THE PROJECT.
+- 
