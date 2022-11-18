@@ -1,3 +1,8 @@
+### Explore More Projects On My:
+  - YOUTUBE:https://www.youtube.com/channel/UCpk-yq776grQMm_f8TzNjaw/videos
+  - LINKEDIN: https://www.linkedin.com/in/ashrafyawar/
+  - PORTFOLIO: https://ashrafyawar.github.io/ashrafyawarwebsite/
+ 
 ![HasariCelebi_MohammadAshrafYawar_161044123-01](https://user-images.githubusercontent.com/32710632/202775161-caccf803-7381-4ccd-b86f-4daed4384845.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-02](https://user-images.githubusercontent.com/32710632/202775163-118c0ba5-93d1-4081-b920-2a1c300a7462.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-03](https://user-images.githubusercontent.com/32710632/202775169-b19f65fc-bd64-4a63-b0a1-c10ddbb5801d.jpg)
@@ -23,12 +28,14 @@
 ![HasariCelebi_MohammadAshrafYawar_161044123-23](https://user-images.githubusercontent.com/32710632/202775230-ed29e26c-8eca-4899-a2a0-05a081f141e1.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-25](https://user-images.githubusercontent.com/32710632/202775234-96835416-9d26-4937-91d8-b7e14a9384b4.jpg)
 
-## Requironments:
+## Requirements:
 
-- Python 3.*
-- Nodejs
-- JDK 8 or higher
-- PostgresSQL
-- NPM package manager
-- Vuejs
-- Django Rest Framework (i recommend installing it globally on your OS)
+- Python 3.* --> https://www.python.org/downloads/
+- Nodejs  --> https://nodejs.org/en/download/
+- JDK 8 or --> higher https://www.oracle.com/java/technologies/downloads/
+- PostgresSQL --> https://www.postgresql.org/download/
+- NPM package manager --> pip install npm
+- Vuejs --> visit https://vuejs.org/ for more info
+- Django Rest Framework (i recommend installing it globally on your OS) --> pip install djangorestframework
+
+### Project Implementation And Explanation: https://www.youtube.com/watch?v=yAlNvwV-gII&t=698s&ab_channel=AshrafYawar
