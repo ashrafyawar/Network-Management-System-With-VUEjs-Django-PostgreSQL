@@ -21,5 +21,14 @@
 ![HasariCelebi_MohammadAshrafYawar_161044123-21](https://user-images.githubusercontent.com/32710632/202775223-db3ae72f-3ac4-4281-b069-03e1a724d200.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-22](https://user-images.githubusercontent.com/32710632/202775227-8be70302-4140-4a52-ab9d-c16f7f9c28a6.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-23](https://user-images.githubusercontent.com/32710632/202775230-ed29e26c-8eca-4899-a2a0-05a081f141e1.jpg)
-![HasariCelebi_MohammadAshrafYawar_161044123-24](https://user-images.githubusercontent.com/32710632/202775232-da0d359e-7a8f-4d30-9ca1-8f974a26177b.jpg)
 ![HasariCelebi_MohammadAshrafYawar_161044123-25](https://user-images.githubusercontent.com/32710632/202775234-96835416-9d26-4937-91d8-b7e14a9384b4.jpg)
+
+## Requironments:
+
+- Python 3.*
+- Nodejs
+- JDK 8 or higher
+- PostgresSQL
+- NPM package manager
+- Vuejs
+- Django Rest Framework (i recommend installing it globally on your OS)
